@@ -7,5 +7,5 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), tailwind(), sitemap()],
-  site: 'https://raven.github.io',
+  site: 'https://ravenapp.info',
 });
