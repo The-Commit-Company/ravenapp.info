@@ -42,7 +42,7 @@ export const Header = (props: Props) => {
                     ))}
                 </div>
                 <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-                    <a href="#" className="text-sm font-semibold leading-6 text-white">
+                    <a href="https://frappecloud.com/marketplace/apps/raven" className="text-sm font-semibold leading-6 text-white">
                         Deploy on Frappe Cloud <span aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
@@ -84,7 +84,7 @@ export const Header = (props: Props) => {
                             </div>
                             <div className="py-6">
                                 <a
-                                    href="#"
+                                    href="https://frappecloud.com/marketplace/apps/raven"
                                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-white hover:bg-gray-800"
                                 >
                                     Deploy on Frappe Cloud
