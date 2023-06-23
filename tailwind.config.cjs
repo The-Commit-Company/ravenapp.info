@@ -6,6 +6,9 @@ module.exports = {
 			fontFamily: {
 				'cal': 'Cal Sans, sans-serif',
 			},
+			aspectRatio: {
+				'4/3': '4 / 3',
+			},
 		},
 	},
 	plugins: [],

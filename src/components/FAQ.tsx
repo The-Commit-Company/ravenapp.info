@@ -14,7 +14,7 @@ const faqs = [
     },
     {
         question: 'How can I contribute to Raven?',
-        answer: 'Any contribution (reporting bugs, suggesting features, or contributing code) is welcome, and frakly, needed. Check out our Github repo for more details.',
+        answer: 'Any contribution (reporting bugs, suggesting features, or contributing code) is welcome, and frankly, needed. Check out our Github repo for more details.',
     },
     {
         question: 'Can I sponsor an integration with another app?',
