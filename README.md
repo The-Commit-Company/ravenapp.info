@@ -1,6 +1,7 @@
 # Raven Website
 
-![basics](https://github.com/The-Commit-Company/Raven-Website/blob/7a52e123c82a78ba52cfc71eaa06d9e1f632e65b/raven-website.png)
+<img width="1511" alt="raven-website" src="https://github.com/The-Commit-Company/ravenapp.info/assets/19825455/38991a5d-9add-48b2-a947-73d30c00f4c3">
+
 
 
 ## 🚀 Project Structure
