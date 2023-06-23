@@ -4,9 +4,9 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import logo from '../images/logo-white.png'
 type Props = {}
 const navigation = [
-    { name: 'Roadmap', href: '#' },
-    { name: 'Changelog', href: '#' },
-    { name: 'About', href: '#' },
+    { name: 'Roadmap', href: 'roadmap' },
+    { name: 'Changelog', href: 'changelog' },
+    { name: 'About', href: 'about' },
     { name: 'Github', href: 'https://github.com/The-Commit-Company/Raven', target: '_blank' },
 ]
 export const Header = (props: Props) => {
@@ -15,7 +15,7 @@ export const Header = (props: Props) => {
         <header className="absolute inset-x-0 top-0 z-50">
             <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
                 <div className="flex lg:flex-1">
-                    <a href="#" className="-m-1.5 p-1.5">
+                    <a href="/" className="-m-1.5 p-1.5">
                         <span className="sr-only">Raven</span>
                         <img
                             className="h-6 w-auto"

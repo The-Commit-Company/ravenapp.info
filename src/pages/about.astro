@@ -1,0 +1,14 @@
+---
+import Layout from "../layouts/Layout.astro";
+import HeroSection from "../components/about/HeroSection.tsx";
+import OpenSource from "../components/about/OpenSource.tsx";
+---
+
+<Layout title="About - Raven">
+    <main>
+        <HeroSection />
+        <OpenSource client:visible />
+    </main>
+</Layout>
+
+<style></style>
