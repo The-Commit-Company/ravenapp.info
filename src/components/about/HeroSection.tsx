@@ -1,7 +1,5 @@
 
-import screenshot from '../images/app-screenshot.png'
-
-export default function Example() {
+export default function AboutHeroSection() {
     return (
         <div className="bg-gray-950">
             <div className="relative isolate pt-14">
