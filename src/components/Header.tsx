@@ -6,7 +6,7 @@ type Props = {}
 const navigation = [
     // { name: 'Roadmap', href: 'roadmap' },
     // { name: 'Changelog', href: 'changelog' },
-    { name: 'About', href: 'about' },
+    { name: 'About', href: '/about' },
     { name: 'Github', href: 'https://github.com/The-Commit-Company/Raven', target: '_blank' },
 ]
 export const Header = (props: Props) => {
