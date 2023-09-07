@@ -4,8 +4,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import logo from '../images/logo-white.png'
 type Props = {}
 const navigation = [
-    { name: 'Roadmap', href: 'roadmap' },
-    { name: 'Changelog', href: 'changelog' },
+    // { name: 'Roadmap', href: 'roadmap' },
+    // { name: 'Changelog', href: 'changelog' },
     { name: 'About', href: 'about' },
     { name: 'Github', href: 'https://github.com/The-Commit-Company/Raven', target: '_blank' },
 ]
